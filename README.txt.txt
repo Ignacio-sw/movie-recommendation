@@ -1,1 +1,0 @@
-The development will take place using docker containers to improve deployment
