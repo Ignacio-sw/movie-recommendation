@@ -17,4 +17,4 @@ x(ij) is what a user i thinks of the movie j. This matrix can get very large and
 - $A_{ij}$ is the rating of the $j$th movies by the $i$th user,
 - each row $U_i$ is a $d$-dimensional vector (embedding) representing user $i$,
 - each row $V_j$ is a $d$-dimensional vector (embedding) representing movie $j$,
-- the prediction of the model for the $(i, j)$ pair is the dot product $\langle U_i, V_j \rangle$.
+- **the prediction of the model for the $(i, j)$ pair is the dot product** $\langle U_i, V_j \rangle$.
