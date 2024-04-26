@@ -11,6 +11,7 @@ to know what to recommend.
 The matrix will be compose of rows representing the users and columns representing the movies, the values will represent what a user thinks of a movie
 x(ij) is what a user i thinks of the movie j. This matrix can get very large and most values will be empty since most users only rate a small set of movies.
 
+
 - $N$ is the number of users,
 - $M$ is the number of movies,
 - $A_{ij}$ is the rating of the $j$th movies by the $i$th user,
